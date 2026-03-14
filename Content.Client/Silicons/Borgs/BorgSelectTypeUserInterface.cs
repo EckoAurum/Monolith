@@ -1,4 +1,3 @@
-using Content.Shared.Books;
 using Content.Shared.Silicons.Borgs.Components;
 using JetBrains.Annotations;
 using Robust.Client.UserInterface;

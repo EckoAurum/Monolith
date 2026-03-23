@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Echo\\source\\repos\\Monolith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\silicons\\borgs\\stationaishuntablecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\silicons\\borgs\\stationaishuntablecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\actions\\entitysystems\\starlightactionssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\actions\\entitysystems\\starlightactionssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5F175-78AF-4DDD-8F97-E2D2552372ED}|Content.Client\\Content.Client.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.client\\shuttles\\systems\\shuttleconsolelocksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5F175-78AF-4DDD-8F97-E2D2552372ED}|Content.Client\\Content.Client.csproj|solutionrelative:content.client\\shuttles\\systems\\shuttleconsolelocksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Entities\\Mobs\\Cyborgs\\base_borg_chassis.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\Prototypes\\Entities\\Mobs\\Cyborgs\\base_borg_chassis.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Entities\\Mobs\\Player\\silicon.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\Prototypes\\Entities\\Mobs\\Player\\silicon.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\actions\\events\\spawnonactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\actions\\events\\spawnonactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\actions\\entitysystems\\spawnonactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\actions\\entitysystems\\spawnonactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\actions\\components\\spawnonactioncomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\actions\\components\\spawnonactioncomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DBBD0-04C2-4D1A-84E2-B3446F6ADF2A}|Content.Server\\Content.Server.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.server\\silicons\\borgs\\borgsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38DBBD0-04C2-4D1A-84E2-B3446F6ADF2A}|Content.Server\\Content.Server.csproj|solutionrelative:content.server\\silicons\\borgs\\borgsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\entities\\mobs\\player\\stationai.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\entities\\mobs\\player\\stationai.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\silicons\\borgs\\stationaishuntsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\silicons\\borgs\\stationaishuntsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Textures\\_Starlight\\Interface\\Actions\\actions_shunt.rsi\\meta.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\Textures\\_Starlight\\Interface\\Actions\\actions_shunt.rsi\\meta.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DBBD0-04C2-4D1A-84E2-B3446F6ADF2A}|Content.Server\\Content.Server.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.server\\silicons\\stationai\\stationaisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38DBBD0-04C2-4D1A-84E2-B3446F6ADF2A}|Content.Server\\Content.Server.csproj|solutionrelative:content.server\\silicons\\stationai\\stationaisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Recipes\\Lathes\\Packs\\robotics.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\Prototypes\\Recipes\\Lathes\\Packs\\robotics.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\recipies\\lathes\\robotics.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\recipies\\lathes\\robotics.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\entities\\objects\\specific\\robotics\\mmi.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\entities\\objects\\specific\\robotics\\mmi.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\silicons\\stationai\\sharedstationaisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\silicons\\stationai\\sharedstationaisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\silicons\\borgs\\stationaishuntcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\silicons\\borgs\\stationaishuntcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|c:\\users\\echo\\source\\repos\\monolith\\content.shared\\_starlight\\silicons\\borgs\\stationaishuntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AEEBB3-DDE7-443A-9F43-7BC7F4ACF6B5}|Content.Shared\\Content.Shared.csproj|solutionrelative:content.shared\\_starlight\\silicons\\borgs\\stationaishuntable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShuttleConsoleLockSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Client\\Shuttles\\Systems\\ShuttleConsoleLockSystem.cs",
+              "RelativeDocumentMoniker": "Content.Client\\Shuttles\\Systems\\ShuttleConsoleLockSystem.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Client\\Shuttles\\Systems\\ShuttleConsoleLockSystem.cs",
+              "RelativeToolTip": "Content.Client\\Shuttles\\Systems\\ShuttleConsoleLockSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:35:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnOnActionEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\Events\\SpawnOnActionEvent.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Actions\\Events\\SpawnOnActionEvent.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\Events\\SpawnOnActionEvent.cs",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Actions\\Events\\SpawnOnActionEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:30:29.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpawnOnActionComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\Components\\SpawnOnActionComponent.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Actions\\Components\\SpawnOnActionComponent.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\Components\\SpawnOnActionComponent.cs",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Actions\\Components\\SpawnOnActionComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:29:05.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnOnActionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\EntitySystems\\SpawnOnActionSystem.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Actions\\EntitySystems\\SpawnOnActionSystem.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\EntitySystems\\SpawnOnActionSystem.cs",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Actions\\EntitySystems\\SpawnOnActionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:27:22.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarlightActionsSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\EntitySystems\\StarlightActionsSystem.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Actions\\EntitySystems\\StarlightActionsSystem.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Actions\\EntitySystems\\StarlightActionsSystem.cs",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Actions\\EntitySystems\\StarlightActionsSystem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vwsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:27:11.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "meta.json",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Textures\\_Starlight\\Interface\\Actions\\actions_shunt.rsi\\meta.json",
+              "RelativeDocumentMoniker": "Resources\\Textures\\_Starlight\\Interface\\Actions\\actions_shunt.rsi\\meta.json",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Textures\\_Starlight\\Interface\\Actions\\actions_shunt.rsi\\meta.json",
+              "RelativeToolTip": "Resources\\Textures\\_Starlight\\Interface\\Actions\\actions_shunt.rsi\\meta.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-22T15:37:14.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "robotics.yml",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Recipes\\Lathes\\Packs\\robotics.yml",
+              "RelativeDocumentMoniker": "Resources\\Prototypes\\Recipes\\Lathes\\Packs\\robotics.yml",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Recipes\\Lathes\\Packs\\robotics.yml",
+              "RelativeToolTip": "Resources\\Prototypes\\Recipes\\Lathes\\Packs\\robotics.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-22T15:34:06.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base_borg_chassis.yml",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Entities\\Mobs\\Cyborgs\\base_borg_chassis.yml",
+              "RelativeDocumentMoniker": "Resources\\Prototypes\\Entities\\Mobs\\Cyborgs\\base_borg_chassis.yml",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Entities\\Mobs\\Cyborgs\\base_borg_chassis.yml",
+              "RelativeToolTip": "Resources\\Prototypes\\Entities\\Mobs\\Cyborgs\\base_borg_chassis.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-22T15:32:45.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "robotics.yml",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Recipies\\Lathes\\robotics.yml",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Recipies\\Lathes\\robotics.yml",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Recipies\\Lathes\\robotics.yml",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Recipies\\Lathes\\robotics.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-22T15:31:58.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SharedStationAiSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\Silicons\\StationAi\\SharedStationAiSystem.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\Silicons\\StationAi\\SharedStationAiSystem.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\Silicons\\StationAi\\SharedStationAiSystem.cs",
+              "RelativeToolTip": "Content.Shared\\Silicons\\StationAi\\SharedStationAiSystem.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAwwO8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:29:07.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StationAIShuntableComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntableComponent.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntableComponent.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntableComponent.cs*",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntableComponent.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:27:28.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StationAiSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Server\\Silicons\\StationAi\\StationAiSystem.cs",
+              "RelativeDocumentMoniker": "Content.Server\\Silicons\\StationAi\\StationAiSystem.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Server\\Silicons\\StationAi\\StationAiSystem.cs",
+              "RelativeToolTip": "Content.Server\\Silicons\\StationAi\\StationAiSystem.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADgv2EAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:25:39.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorgSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Server\\Silicons\\Borgs\\BorgSystem.cs",
+              "RelativeDocumentMoniker": "Content.Server\\Silicons\\Borgs\\BorgSystem.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Server\\Silicons\\Borgs\\BorgSystem.cs",
+              "RelativeToolTip": "Content.Server\\Silicons\\Borgs\\BorgSystem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAMoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:23:35.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "silicon.yml",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Entities\\Mobs\\Player\\silicon.yml",
+              "RelativeDocumentMoniker": "Resources\\Prototypes\\Entities\\Mobs\\Player\\silicon.yml",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Resources\\Prototypes\\Entities\\Mobs\\Player\\silicon.yml",
+              "RelativeToolTip": "Resources\\Prototypes\\Entities\\Mobs\\Player\\silicon.yml",
+              "ViewState": "AgIAAJcBAAAAAAAAAADgv5gBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-22T15:21:10.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "mmi.yml",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Entities\\Objects\\Specific\\Robotics\\mmi.yml",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Entities\\Objects\\Specific\\Robotics\\mmi.yml",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Entities\\Objects\\Specific\\Robotics\\mmi.yml",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Entities\\Objects\\Specific\\Robotics\\mmi.yml",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-22T15:20:32.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "stationAI.yml",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Entities\\Mobs\\Player\\stationAI.yml",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Entities\\Mobs\\Player\\stationAI.yml",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Entities\\Mobs\\Player\\stationAI.yml",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Entities\\Mobs\\Player\\stationAI.yml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-22T15:19:28.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StationAIShuntSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntSystem.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntSystem.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntSystem.cs",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:18:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StationAIShuntComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntComponent.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntComponent.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntComponent.cs",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:17:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StationAIShuntable.cs",
+              "DocumentMoniker": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntable.cs",
+              "RelativeDocumentMoniker": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntable.cs",
+              "ToolTip": "C:\\Users\\Echo\\source\\repos\\Monolith\\Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntable.cs",
+              "RelativeToolTip": "Content.Shared\\_Starlight\\Silicons\\Borgs\\StationAIShuntable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:16:45.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
